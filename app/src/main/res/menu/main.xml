@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Voice_menu"
+        android:title="Voice call"/>
+    <item android:id="@+id/map_viewer"
+        android:title="Map View"/>
+    <item android:id="@+id/patient_info"
+        android:title="Patient info"/>
+</menu>
